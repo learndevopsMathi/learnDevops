@@ -2,5 +2,5 @@
 node{
 def name="muhilmathi"
 print name
-sh ls -ls 
+sh (script:"ls -ltr")
 }
